@@ -1,0 +1,1 @@
+配合《fakeFs.c》《fakeFs.h》使用
